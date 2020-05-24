@@ -1,0 +1,10 @@
+{   
+    code:'666',//666表示还有更多
+    questionData:[//问答列表
+        {q:{type:"文科",rank:'123',major:'计算机，设计'},an:'@csentence(24,50)',id:'1'},
+        {q:{type:"文科",rank:'123',major:'计算机，设计'},an:'@csentence(24,50)',id:'1'},
+        {q:{type:"文科",rank:'123',major:'计算机，设计'},an:'@csentence(24,50)',id:'1'},
+        {q:{type:"文科",rank:'123',major:'计算机，设计'},an:'@csentence(24,50)',id:'1'},
+        {q:{type:"文科",rank:'123',major:'计算机，设计'},an:'@csentence(24,50)',id:'1'}
+    ],
+}

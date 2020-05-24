@@ -1,0 +1,243 @@
+$fontSize:14px;
+$fontColor:#444;
+body{
+    margin:0;
+    font-family: "microsoft yahei", Arial, Helvetica, sans-serif;
+    color: $fontColor;
+    font-size:$fontSize;
+   }
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video, input  {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: 0;
+    font-size: 14px;
+    line-height: 1.6em;
+    vertical-align: baseline;
+}   
+ol, ul {
+    list-style: none;
+}
+a:link,a:visited{
+    font-size: 16px;
+}
+a{
+    &:link,&:visited{
+        font-size: 16px;
+        color: #444;
+        text-decoration: none;
+    }
+    &:hover{
+        text-decoration: underline;
+    }
+}
+.clearfix:after{visibility:hidden;display:block;font-size:0;content: " ";clear:both;height:0;}
+.clearfix{ display:block}
+.c_m{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tmar{
+    margin-right: 20px;
+    font-size: 14px;
+}
+.active{
+    color: #e61f19!important;
+}
+.logo-banner{
+    padding: 28px 0;
+}
+.loading{
+    font-size: 35px;
+    color: #999;
+ 
+}
+.loading-div{
+   text-align: center;
+   padding: 100px 0;
+}
+.global_icon{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-size:100% auto;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+.highschool{
+    background-image: url('../../../public/staticimg/highschool.png');
+}
+.yxzn{
+    background-image: url('../../../public/staticimg/yxzn.png');
+}
+.zhban{
+    background-image: url('../../../public/staticimg/zhban.png');
+}
+.zcjd{
+    background-image: url('../../../public/staticimg/zcjd.png');
+   background-size: auto 100%;
+}
+.zhiyuan{
+    background-image: url('../../../public/staticimg/zhiyuan.png');
+   
+}
+.fsx{
+    background-image: url('../../../public/staticimg/fsx.png');
+}
+.qico{
+    background-image: url('../../../public/staticimg/q.png');
+}
+.xuebaico{
+    background-image: url('../../../public/staticimg/xuebaico.png');
+}
+.rmore{
+    background-image: url('../../../public/staticimg/more.png');
+}
+.xyicon{
+    background-image: url('../../../public/staticimg/xyicon.png');
+}
+.time{
+    background-image: url('../../../public/staticimg/time.png');
+    background-size: 22px 22px;
+}
+.eye{
+    background-image: url('../../../public/staticimg/eye.png');
+    background-size: 29px 20px;
+}
+.nav-h2{
+    display: inline;
+    font-size: 24px;
+}
+.section-nav{
+    display: flex;
+    align-items: center;
+   
+   
+}
+.ml10{
+    margin-left: 10px;
+}
+.nav-pt40{
+   padding-top: 40px;
+}
+.nav-pt30{
+    padding-top: 30px;
+ }
+.mt30{
+    margin-top: 30px;
+}
+.mt15{
+    margin-top: 15px;
+}
+.nav-pt20{
+    padding-top: 20px;
+ }
+ .item-zcbox{
+     background: #f9f9f9;
+     padding: 5px 15px;
+ }
+ .bk{
+     display: block;
+ }
+ a.blue-link:link,a.blue-link:visited{
+     color: #0364a8;
+     font-size: 16px;
+ }
+ .btn-more{
+    background: #fc6147;
+    border-radius: 50px;
+    padding: 10px 30px;
+    color: #fff;
+    cursor: pointer;
+}
+a.btn-more:link,a.btn-more:visited{
+    color: #fff;
+}
+a.btn-more:hover{
+    text-decoration: none;
+}
+.more-box{
+    text-align:center;
+}
+.nomore{
+    font-size: 18px;
+    color: #666;
+}
+.right-bar-ad{
+    margin-bottom: 10px;
+    display: block;
+}
+.mt20{
+    margin-top: 20px;
+}
+.small-title{
+    color: #999;
+    padding-left: 10px;
+    font-size: 16px;
+}
+.content *{
+    font-size: 18px;
+    line-height: 2em;
+}
+
+.content p{
+    margin-bottom:30px ;
+}
+.content{
+    line-height:2.2em;
+    font-size: 18px;
+}
+ .content a:live, .content a:visited{
+     font-size: 18px;
+ }
+ .content img{
+     max-width: 80%;
+ }
+ .tc{
+     text-align: center;
+ }
+ .zan-icon{
+     padding: 10px 20px;
+     border-radius: 30px;
+     border: 1px solid #feba33;
+     cursor: pointer;
+     display: inline-block;
+     font-size: 16px;
+ }
+ .zanimg{
+     width: 36px;
+     
+ }
+ .zanico{
+     display: inline-block;
+     width: 36px;
+     height: 36px;
+     background: url(../../../public/staticimg/zan1.png) no-repeat;
+     background-size:32px auto ;
+     vertical-align: middle;
+ }
+ .zanon{
+     background-image: url(../../../public/staticimg/zan2.png);
+ }
+ .table-normal{
+    border-collapse:collapse;  
+    border: 1px solid #e3e3e3;  
+    font-size: 20px;
+    color: #666;
+    margin: 60px auto;
+    width: 1200px;
+ }
+ .table-normal td{  
+    border-collapse:collapse;  
+    border: 1px solid #e3e3e3;  
+    font-size: 20px;
+    color: #666;
+    padding: 10px 55px;
+}  

@@ -1,0 +1,8 @@
+{
+   banner:[ 
+           {id:'1',img:'@assets/images/adtl.png',url:'',type:0},
+           {id:'1',img:'@assets/images/adtl.png',url:'',type:0}
+           ]
+}
+
+//type0 通栏 type1半通栏

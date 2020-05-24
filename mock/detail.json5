@@ -1,0 +1,6 @@
+{   
+    detail_title:"@csentence(8,12)",//标题
+    date:'2018年12月7日',//时间
+    look:'15850',//查看次数
+    content:"@csentence(44,332)",//文章内容
+}

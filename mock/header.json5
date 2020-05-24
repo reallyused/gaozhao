@@ -1,0 +1,14 @@
+{
+    mainnav:[
+        {name:"首页",path:"/"},
+        {name:"政策动态",path:"/policy",children:[{cat_name:"分类分类分类1",url:"/policy/cat_name1"},{cat_name:"分类2",url:"/policy/cat_name2"}]},
+        {name:"招办访谈",path:"/interview"},
+        {name:"我要提问",path:"/question"},
+        {name:"历年分数",path:"/score"},
+        {name:"填报指南",path:"/guide"}
+        ],
+    headerAd:{
+        img:"@image('700x75',red,'#fff','avatar')",
+        url:""
+    }    
+}

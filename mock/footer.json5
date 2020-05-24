@@ -1,0 +1,9 @@
+{
+    footer:{
+        leftHtml:' 互联网新闻信息服务备案号：皖网宣备070013号 皖公网安备34010002000066<Br/>
+Copyright © 2003-2018 ahyouth.com All Rights Reserved. 共青团安徽省委指导<Br/>
+安徽青年报社版权所有 未经允许 请勿复制或镜像 皖ICP备10205942号<Br/>
+互联网违法和不良信息举报电话：0551-65773962 举报邮箱：ahqnbaqw@126.com',
+        footerewm:"@image('145x145',red,'#fff','avatar')"
+    }
+}

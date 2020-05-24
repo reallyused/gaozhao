@@ -1,0 +1,14 @@
+{   
+    code:'666',//666表示还有更多分页，如果不是没有更多分页了
+    cat_name:"招生信息",//当前分类名称
+    loadNews:[
+        {title:"@csentence(10,16)",img:"",id:"1123fddsf1313",type:'policy',date:"2018-12-7"},//type是当前二级分类，不知道可合适,后期可能用于判断文章类型
+        {title:"@csentence(30,56)",img:"@image('260x150',red,'#fff','avatar')",id:"11231313",type:'policy',date:"2018-12-7"},
+        {title:"@csentence(10,16)",img:"@image('260x150',red,'#fff','avatar')",id:"11231313",type:'policy',date:"2018-12-7"},
+        {title:"@csentence(10,16)",img:"@image('260x150',red,'#fff','avatar')",id:"11231313",type:'policy',date:"2018-12-7"},
+        {title:"@csentence(10,16)",img:"",id:"1123fddsf1313",type:'policy',date:"2018-12-7"},
+        {title:"@csentence(10,16)",img:"",id:"1123fddsf1313",type:'policy',date:"2018-12-7"},
+        {title:"@csentence(10,16)",img:"",id:"1123fddsf1313",type:'policy',date:"2018-12-7"}
+    ],
+   
+}

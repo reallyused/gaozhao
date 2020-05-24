@@ -1,0 +1,13 @@
+{
+   maxPage:'12',
+   itemData:[
+       {img:"@image('380x222',red,'#fff','avatar')",id:'1',school:'@csentence(10,20)',name:"@csentence(2,3)",info:"@csentence(20,30)"},
+       {img:"@image('380x222',red,'#fff','avatar')",id:'1',school:'@csentence(10,20)',name:"@csentence(2,3)",info:"@csentence(20,30)"},
+       {img:"@image('380x222',red,'#fff','avatar')",id:'1',school:'@csentence(10,20)',name:"@csentence(2,3)",info:"@csentence(20,30)"},
+       {img:"@image('380x222',red,'#fff','avatar')",id:'1',school:'@csentence(10,20)',name:"@csentence(2,3)",info:"@csentence(20,30)"},
+       {img:"@image('380x222',red,'#fff','avatar')",id:'1',school:'@csentence(10,20)',name:"@csentence(2,3)",info:"@csentence(20,30)"},
+       {img:"@image('380x222',red,'#fff','avatar')",id:'1',school:'@csentence(10,20)',name:"@csentence(2,3)",info:"@csentence(20,30)"},
+        {img:"@image('380x222',red,'#fff','avatar')",id:'1',school:'@csentence(10,20)',name:"@csentence(2,3)",info:"@csentence(20,30)"}
+        
+   ]
+}

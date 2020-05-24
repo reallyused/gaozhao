@@ -1,0 +1,19 @@
+{
+    rightNews:{
+        name:'最新资讯',
+        item:  [
+          {title:"@csentence(10,16)",id:"1123fddsf1313",type:'policy'},
+          {title:"@csentence(10,16)",id:"1123fddsf1313",type:'policy'},
+            {title:"@csentence(10,16)",id:"1123fddsf1313",type:'policy'},
+              {title:"@csentence(10,16)",id:"1123fddsf1313",type:'policy'},
+                {title:"@csentence(10,16)",id:"1123fddsf1313",type:'policy'},
+                  {title:"@csentence(10,16)",id:"1123fddsf1313",type:'policy'},
+        ]
+    },
+    ad:{
+        rightad:[
+              {id:'1',img:"@image('300x56',red,'#fff','avatar')",url:'',type:0},
+               {id:'2',img:"@image('300x156',red,'#fff','avatar')",url:'',type:0},
+        ]
+    }
+}

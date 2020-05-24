@@ -1,0 +1,11 @@
+{   
+    school:"@csentence(8,12)",//学校
+    photo:"@image('300x180',red,'#fff','avatar')",//图片
+    schoolPhoto:"@image('100x100',red,'#fff','avatar')",//学校图片
+    personInfo:"@csentence(44,132)",
+    job:"@csentence(8,12)",//职位
+    name:"@csentence(2,3)",//姓名
+    say:"@csentence(11,14)",//说的话
+    zan:'15850',//赞
+    content:"@csentence(44,332)",//文章内容
+}

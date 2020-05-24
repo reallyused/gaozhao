@@ -1,0 +1,16 @@
+{
+    title:"@csentence(12,18)",
+    type:[
+        {name:"本科一批",id:"1"},
+         {name:"本科二批",id:"1"},
+          {name:"本科三批",id:"1"},
+           {name:"本科一批",id:"1"}
+        ],
+    typeData:[
+        {daihao:"2",yuanxiaomingcheng:"123",toudangrenshu:"123",zuidifen:"123",zuidifenpaiming:"123"},
+        {daihao:"2",yuanxiaomingcheng:"123",toudangrenshu:"123",zuidifen:"123",zuidifenpaiming:"123"},
+        {daihao:"2",yuanxiaomingcheng:"123",toudangrenshu:"123",zuidifen:"123",zuidifenpaiming:"123"},
+        {daihao:"2",yuanxiaomingcheng:"123",toudangrenshu:"123",zuidifen:"123",zuidifenpaiming:"123"},
+    ],
+
+}
